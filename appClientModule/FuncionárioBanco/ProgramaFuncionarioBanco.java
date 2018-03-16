@@ -7,7 +7,7 @@ public class ProgramaFuncionarioBanco {
 		a.Nome = "Davison";
 		a.Departamento = "adm";
 		Funcionarios b = new Funcionarios();
-		b.Nome = "Franciny";
+		b.Nome = "Ciny";
 		b.Departamento = "fiscal";
 		
 		Data data = new Data();
